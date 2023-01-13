@@ -1,3 +1,5 @@
 /bin
 /obj
 /.idea
+/NativeCollections/bin
+/NativeCollections/obj
