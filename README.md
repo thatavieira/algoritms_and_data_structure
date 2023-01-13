@@ -1,1 +1,1 @@
-# algoritms_and_data_structure
+Data structures are the way we store and organize data in a computer program. Mastering such structures is important for writing efficient and optimized programs. Specifically, a data structure is a collection of values located in an area of memory and which has a set of rules for storing and managing such a collection. This set of rules are the algorithms of data structures.
